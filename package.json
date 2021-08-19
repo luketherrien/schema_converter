@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-writer": "*"
+  },
+  "scripts": {
+    "start": "node script.js"
+  }
+}
